@@ -1,3 +1,4 @@
+Всем привет
 # BootstrapGridView for ASP.NET Core - How to implement the Master Detail Scenario with CRUD operations
 This example shows how to implement a master-detail relationship and how to insert, update and delete records from both master and detail grids. For this, we will use a Booststrap-based component for ASP.NET Core: [BootststrapGridView](https://demos.devexpress.com/aspnetcore-bootstrap/GridView).
 
